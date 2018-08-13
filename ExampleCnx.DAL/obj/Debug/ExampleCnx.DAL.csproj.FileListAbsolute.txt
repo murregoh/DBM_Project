@@ -1,0 +1,16 @@
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.DAL\bin\Debug\ExampleCnx.DAL.dll
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.DAL\bin\Debug\ExampleCnx.DAL.pdb
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.DAL\obj\Debug\ExampleCnx.DAL.dll
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.DAL\obj\Debug\ExampleCnx.DAL.pdb
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.DAL\obj\Debug\ExampleCnx.DAL.csprojResolveAssemblyReference.cache
+E:\Repos\ExampleCnx\ExampleCnx.DAL\bin\Debug\ExampleCnx.DAL.dll
+E:\Repos\ExampleCnx\ExampleCnx.DAL\bin\Debug\ExampleCnx.DAL.pdb
+E:\Repos\ExampleCnx\ExampleCnx.DAL\obj\Debug\ExampleCnx.DAL.dll
+E:\Repos\ExampleCnx\ExampleCnx.DAL\obj\Debug\ExampleCnx.DAL.pdb
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.DAL\bin\Debug\ExampleCnx.DAL.dll
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.DAL\bin\Debug\ExampleCnx.DAL.pdb
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.DAL\bin\Debug\ExampleCnx.Modelos.dll
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.DAL\bin\Debug\ExampleCnx.Modelos.pdb
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.DAL\obj\Debug\ExampleCnx.DAL.csprojResolveAssemblyReference.cache
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.DAL\obj\Debug\ExampleCnx.DAL.dll
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.DAL\obj\Debug\ExampleCnx.DAL.pdb

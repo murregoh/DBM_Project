@@ -1,0 +1,4 @@
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.Modelos\bin\Debug\ExampleCnx.Modelos.dll
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.Modelos\bin\Debug\ExampleCnx.Modelos.pdb
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.Modelos\obj\Debug\ExampleCnx.Modelos.dll
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.Modelos\obj\Debug\ExampleCnx.Modelos.pdb

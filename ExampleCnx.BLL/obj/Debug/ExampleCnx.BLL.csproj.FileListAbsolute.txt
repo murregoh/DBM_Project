@@ -1,0 +1,23 @@
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.BLL.dll
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.BLL.pdb
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.DAL.dll
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.DAL.pdb
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.BLL\obj\Debug\ExampleCnx.BLL.csprojResolveAssemblyReference.cache
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.BLL\obj\Debug\ExampleCnx.BLL.dll
+c:\users\jhonwilliams\documents\visual studio 2015\Projects\ExampleCnx\ExampleCnx.BLL\obj\Debug\ExampleCnx.BLL.pdb
+E:\Repos\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.BLL.dll
+E:\Repos\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.BLL.pdb
+E:\Repos\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.DAL.dll
+E:\Repos\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.DAL.pdb
+E:\Repos\ExampleCnx\ExampleCnx.BLL\obj\Debug\ExampleCnx.BLL.csprojResolveAssemblyReference.cache
+E:\Repos\ExampleCnx\ExampleCnx.BLL\obj\Debug\ExampleCnx.BLL.dll
+E:\Repos\ExampleCnx\ExampleCnx.BLL\obj\Debug\ExampleCnx.BLL.pdb
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.BLL.dll
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.BLL.pdb
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.DAL.dll
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.Modelos.dll
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.DAL.pdb
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.BLL\bin\Debug\ExampleCnx.Modelos.pdb
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.BLL\obj\Debug\ExampleCnx.BLL.csprojResolveAssemblyReference.cache
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.BLL\obj\Debug\ExampleCnx.BLL.dll
+E:\PersonalFolder\Repos\ExampleCnx\ExampleCnx.BLL\obj\Debug\ExampleCnx.BLL.pdb
